@@ -4842,4 +4842,6 @@ const herblist = [
       }
     ]
   ]
+
+  export default herbList;
   
