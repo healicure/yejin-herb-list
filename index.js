@@ -3387,6 +3387,17 @@ export const herblist = [
   [
     {
       basicHerbFlag: true,
+      processingCode: "3419H1AHM-1",
+      herbCode: "H285",
+      koreanName: "적작약",
+      knForSearch: "적작약",
+      chineseName: "赤芍藥",
+      price: 1,
+    },
+  ],
+  [
+    {
+      basicHerbFlag: true,
       processingCode: "3419H1AHM",
       herbCode: "H130",
       koreanName: "작약",
@@ -3396,21 +3407,12 @@ export const herblist = [
     },
     {
       basicHerbFlag: false,
-      processingCode: "3419H1AHM-1",
-      herbCode: "H285",
-      koreanName: "적작약",
-      knForSearch: "적작약",
-      chineseName: "赤芍藥",
-      price: 2,
-    },
-    {
-      basicHerbFlag: false,
       processingCode: "3628H1AHM",
       herbCode: "H130",
       koreanName: "작약주자",
       knForSearch: "작약주자",
       chineseName: "芍藥酒炙",
-      price: 3,
+      price: 2,
     },
     {
       basicHerbFlag: false,
@@ -3419,7 +3421,7 @@ export const herblist = [
       koreanName: "작약초",
       knForSearch: "작약초",
       chineseName: "芍藥炒",
-      price: 4,
+      price: 3,
     },
   ],
   [
