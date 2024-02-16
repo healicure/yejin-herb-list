@@ -2405,7 +2405,7 @@ const herblist = [
       processingCode: "3297H1AHM",
       herbCode: "H410",
       koreanName: "수오등",
-      knForSearch: "수오등",
+      knForSearch: "수오등||야교등",
       chineseName: "首烏藤",
       price: 1,
     },
