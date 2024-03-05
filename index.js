@@ -1055,7 +1055,7 @@ const herblist = [
       basicHerbFlag: false,
       processingCode: "3632H1AHM",
       herbCode: "H310",
-      koreanName: "진피초",
+      koreanName: "진피초(陳皮炒)",
       knForSearch: "진피초",
       chineseName: "陳皮炒",
       price: 3,
