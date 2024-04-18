@@ -4844,6 +4844,17 @@ const herblist = [
       price: 1,
     },
   ],
+  [
+    {
+      basicHerbFlag: true,
+      processingCode: "3655H1AHM",
+      herbCode: "H426",
+      koreanName: "하르파고피툼근",
+      knForSearch: "하르파고피툼근",
+      chineseName: "",
+      price: 1,
+    },
+  ],
 ];
 
 const herbCountMap = new Map([
